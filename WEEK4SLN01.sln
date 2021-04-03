@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4Extra(Horse)", "..\W4Extr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4Extra(CFK)", "..\W4Extra(CFK)\W4Extra(CFK).csproj", "{DEFE4DF1-1B03-4B96-9D66-09F7674BFDD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConvertorLib", "..\TempConvertorLib\TempConvertorLib.csproj", "{80A593B6-4614-4A4C-9371-C6787E2CDCA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DEFE4DF1-1B03-4B96-9D66-09F7674BFDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFE4DF1-1B03-4B96-9D66-09F7674BFDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFE4DF1-1B03-4B96-9D66-09F7674BFDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A593B6-4614-4A4C-9371-C6787E2CDCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A593B6-4614-4A4C-9371-C6787E2CDCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A593B6-4614-4A4C-9371-C6787E2CDCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A593B6-4614-4A4C-9371-C6787E2CDCA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
